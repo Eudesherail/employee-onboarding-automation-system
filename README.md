@@ -60,7 +60,7 @@ Core components:
 ---
 
 ## Sample Logic
-See: docs/sample-logic.md
+See: [docs/sample-logic.md](docs/sample-logic.md)
 
 ---
 
