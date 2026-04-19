@@ -67,3 +67,7 @@ See: docs/sample-logic.md
 ## Privacy Note
 This repository represents an abstracted version of a real-world workflow.  
 Sensitive details and company-specific configurations are intentionally omitted.
+
+
+![Workflow](docs/onboarding_workflow_diagram_v2.svg)
+![Architecture](docs/onboarding_architecture_diagram_v2.svg)
